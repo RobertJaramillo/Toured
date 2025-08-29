@@ -8,6 +8,7 @@ theme:
     - scheme: default
 plugins:
   - search
+docs_dir: Documents
 nav:
   - Home: index.md
   - Getting Started: ReadMe.md
