@@ -10,5 +10,5 @@ plugins:
   - search
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+  - Getting Started: ReadMe.md
   - Roadmap: roadmap.md
