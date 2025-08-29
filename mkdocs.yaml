@@ -10,5 +10,6 @@ plugins:
   - search
 docs_dir: Documents
 nav:
+  - Home: index.md
   - Getting Started: Requirements.md
   - Roadmap: roadmap.md
