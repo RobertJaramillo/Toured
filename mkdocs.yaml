@@ -10,5 +10,5 @@ plugins:
   - search
 docs_dir: Documents
 nav:
-  - Getting Started: ReadMe.md
+  - Getting Started: Requirements.md
   - Roadmap: roadmap.md
